@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedPreferenceActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Escribe aquí el texto</string>
+    <string name="save">Continuar</string>
+    <string name="saved">Datos almacenados, mostrando la segunda Actividad</string>
+    <string name="info">Después de escribir algo en el campo de arriba pulsa sobre el botón para almacenar los
+        datos en SharedPreference y mostrarlos en la siguiente Activity.</string>
+
+</resources>
